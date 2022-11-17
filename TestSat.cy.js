@@ -5,7 +5,7 @@ const satellite = 'directv 10'
 
 
 // Bugs:
-// 1. First time running file shows timeout error when loading website
+// 1. First time running file shows timeout error when loading website. Restarting test 1-2 times corrects the issue
 // 2. Gives warning of 2 or more selections even when only 1 selected
 
 // Test Description
